@@ -9,5 +9,5 @@ Performing analysis on Kickstarter data to uncover trends
 *From the graph below, we can see that a campaign goal of 4,000 or more is not as likely to be reached. (based off GB musical campaigns)
 ![Goal Vs Pledged](https://user-images.githubusercontent.com/90978927/133896963-42383d87-0a9f-4d0a-b982-92beecc55350.png)
 ---
-*We suggest trying to produce your show with a budge lower than 4,000. 
+*We suggest trying to produce your show with a budget lower than 4,000. 
 ---
