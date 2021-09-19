@@ -29,7 +29,9 @@ I did not run into any difficulties for this challenge. If I didn't have prior e
 ***Based off the data, I would suggest starting a campign in May for no more than 4,999 and running this campign for 2-3 weeks.***
 
 **Limitations of the Dataset:**
+---
 I ran into a few limitations of the dataset. One was using different currencies. In order to pull information that is the most accurate, we would want to look at either the data by currencies or calculate the currency to have it match. Didn't take into consideration the type of play. We do not know if comedies fair better than love stories. This could provide us more information to determine if one genre did better than another. 
 	
 **Other Tables or Graphs:**
+---
 We could have looked at the length of time a campaign ran and if this changed the success rate. If we looked at this we could determine that running a campaign for less than 1 month tend to be more successful.
