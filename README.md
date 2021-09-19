@@ -20,9 +20,9 @@ I did not run into any difficulties for this challenge. If I didn't have prior e
 
 
 **Conclusions from Outcomes by Goals:**
--The lower the goal amount the better % chance there is to be successful. You can see in the chart below that there is over a 70% successful rate for those goals set 	         for  4999 and under but we see a decline the higher the goal is.
--Goals higher than this have a 50% or less success rate. 
--There is a small variance in goals set from 35,000-44,999 were we start to see the campaigns overall fared better. However there is also a much smaller dataset to pull          from so I wouldn't put much stock in this information. 
+   - The lower the goal amount the better % chance there is to be successful. You can see in the chart below that there is over a 70% successful rate for those goals set 	         for  4999 and under but we see a decline the higher the goal is.
+   - Goals higher than this have a 50% or less success rate. 
+   - There is a small variance in goals set from 35,000-44,999 were we start to see the campaigns overall fared better. However there is also a much smaller dataset to pull          from so I wouldn't put much stock in this information. 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/90978927/133936010-6fc29bea-d5ea-4e7b-af70-68ca4cde28b9.png)
   
 
