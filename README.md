@@ -13,16 +13,16 @@ I did not run into any difficulties for this challenge. If I didn't have prior e
 **Results:**
 ---
 **Conclusions based of Launch Date:**
-	- May and June tend to be the most successful months for launching a fundraising campaign for theaters. 
-	- Summer months (May -Aug) prove to be the highest months to began a campaign so we have the most data to extrapolate an analysis from. 
-	- Theater campaigns tend to have a low number of campaigns that were canceled. 
+	*May and June tend to be the most successful months for launching a fundraising campaign for theaters. 
+	*Summer months (May -Aug) prove to be the highest months to began a campaign so we have the most data to extrapolate an analysis from. 
+	*Theater campaigns tend to have a low number of campaigns that were canceled. 
   ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/90978927/133935988-1a1d001b-7c3a-4eb3-a637-e45581598f75.png)
 
 
 **Conclusions from Outcomes by Goals:**
-	- The lower the goal amount the better % chance there is to be successful. You can see in the chart below that there is over a 70% successful rate for those goals set for  4999 and under but we see a decline the higher the goal is.
-	- Goals higher than this have a 50% or less success rate. 
-	- There is a small variance in goals set from 35,000-44,999 were we start to see the campaigns overall fared better. However there is also a much smaller dataset to pull from so I wouldn't put much stock in this information. 
+	*The lower the goal amount the better % chance there is to be successful. You can see in the chart below that there is over a 70% successful rate for those goals set for  4999 and under but we see a decline the higher the goal is.
+	*Goals higher than this have a 50% or less success rate. 
+	*There is a small variance in goals set from 35,000-44,999 were we start to see the campaigns overall fared better. However there is also a much smaller dataset to pull from so I wouldn't put much stock in this information. 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/90978927/133936010-6fc29bea-d5ea-4e7b-af70-68ca4cde28b9.png)
   
 
