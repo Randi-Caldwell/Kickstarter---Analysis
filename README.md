@@ -13,9 +13,9 @@ I did not run into any difficulties for this challenge. If I didn't have prior e
 **Results:**
 ---
 **Conclusions based of Launch Date:**
--May and June tend to be the most successful months for launching a fundraising campaign for theaters. 
--Summer months (May -Aug) prove to be the highest months to began a campaign so we have the most data to extrapolate an analysis from. 
--Theater campaigns tend to have a low number of campaigns that were canceled. 
+   - May and June tend to be the most successful months for launching a fundraising campaign for theaters. 
+   - Summer months (May -Aug) prove to be the highest months to began a campaign so we have the most data to extrapolate an analysis from. 
+   - Theater campaigns tend to have a low number of campaigns that were canceled. 
   ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/90978927/133935988-1a1d001b-7c3a-4eb3-a637-e45581598f75.png)
 
 
