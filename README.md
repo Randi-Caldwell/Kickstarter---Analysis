@@ -1,6 +1,6 @@
 **Overview of Project:**
 ---
-The purpose of this project was to determine the most successful time to start a campaign as well as the amount to set the goal for. The dataset looked at included 1369 Theater campigns spanning 9 years and 1047 Play Campigns. The data was pulled included campigns from all over the world and many different genres.
+The purpose of this project was to determine the most successful time to start a campaign as well as the what goal to set. The dataset looked at included 1369 Theater campigns spanning 9 years and 1047 Play Campigns. The data was pulled included campigns from all over the world and many different genres.
 
 **Analysis and Challenges:**
 ---
