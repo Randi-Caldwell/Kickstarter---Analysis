@@ -1,3 +1,4 @@
+									**Kickstarter Analysis**
 **Overview of Project:**
 ---
 The purpose of this project was to determine what decisions prove most successful to run a campaign to fund a play. The dataset included 1369 theater campaigns spanning 9 years and 1047 play campaigns. The data included campigns from all over the world and many different genres.
